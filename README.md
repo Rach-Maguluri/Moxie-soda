@@ -1,6 +1,9 @@
 # MOXIE SODA
 A detailed case study, exploring the Legacy and Future of Moxie Soda
 
+![Moxie Soda](https://github.com/Rach-Maguluri/Moxie-soda/blob/main/MOXIE.jpg)
+
+
 # HISTORY
 During the War of the Rebellion, Lieutenant Macksey and Doctor Thompson, bonded by the hardships of camp and battlefield, formed a lasting friendship. Macksey, a seasoned traveler and observer, returned from his journeys with a tonic beverage made from the juice of a plant used by natives to endure the equatorial sun. He shared this sample with Doctor Thompson in 1884, sparking extended experiments. Mixing flavors and additional ingredients, Thompson created a palatable compound, which he jokingly named "Moxie" in honor of his friend Macksey, thus birthing the pioneer nerve food in 1886.
 
